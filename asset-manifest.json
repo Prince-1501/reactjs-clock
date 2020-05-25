@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Prince-1501/reactjs-clock/static/css/main.8d1b994c.chunk.css",
-    "main.js": "/Prince-1501/reactjs-clock/static/js/main.faec1a35.chunk.js",
-    "main.js.map": "/Prince-1501/reactjs-clock/static/js/main.faec1a35.chunk.js.map",
-    "runtime-main.js": "/Prince-1501/reactjs-clock/static/js/runtime-main.e57ccec0.js",
-    "runtime-main.js.map": "/Prince-1501/reactjs-clock/static/js/runtime-main.e57ccec0.js.map",
-    "static/js/2.6aca7c2b.chunk.js": "/Prince-1501/reactjs-clock/static/js/2.6aca7c2b.chunk.js",
-    "static/js/2.6aca7c2b.chunk.js.map": "/Prince-1501/reactjs-clock/static/js/2.6aca7c2b.chunk.js.map",
-    "index.html": "/Prince-1501/reactjs-clock/index.html",
-    "precache-manifest.b66d51e212777903356fce79b506df18.js": "/Prince-1501/reactjs-clock/precache-manifest.b66d51e212777903356fce79b506df18.js",
-    "service-worker.js": "/Prince-1501/reactjs-clock/service-worker.js",
-    "static/css/main.8d1b994c.chunk.css.map": "/Prince-1501/reactjs-clock/static/css/main.8d1b994c.chunk.css.map",
-    "static/js/2.6aca7c2b.chunk.js.LICENSE.txt": "/Prince-1501/reactjs-clock/static/js/2.6aca7c2b.chunk.js.LICENSE.txt",
-    "static/media/bg-image.svg": "/Prince-1501/reactjs-clock/static/media/bg-image.d94aee2b.svg"
+    "main.css": "/reactjs-clock/static/css/main.8d1b994c.chunk.css",
+    "main.js": "/reactjs-clock/static/js/main.c0c7cc9d.chunk.js",
+    "main.js.map": "/reactjs-clock/static/js/main.c0c7cc9d.chunk.js.map",
+    "runtime-main.js": "/reactjs-clock/static/js/runtime-main.954c4f0d.js",
+    "runtime-main.js.map": "/reactjs-clock/static/js/runtime-main.954c4f0d.js.map",
+    "static/js/2.6aca7c2b.chunk.js": "/reactjs-clock/static/js/2.6aca7c2b.chunk.js",
+    "static/js/2.6aca7c2b.chunk.js.map": "/reactjs-clock/static/js/2.6aca7c2b.chunk.js.map",
+    "index.html": "/reactjs-clock/index.html",
+    "precache-manifest.28c4d595504234fdfb8f70465dedecac.js": "/reactjs-clock/precache-manifest.28c4d595504234fdfb8f70465dedecac.js",
+    "service-worker.js": "/reactjs-clock/service-worker.js",
+    "static/css/main.8d1b994c.chunk.css.map": "/reactjs-clock/static/css/main.8d1b994c.chunk.css.map",
+    "static/js/2.6aca7c2b.chunk.js.LICENSE.txt": "/reactjs-clock/static/js/2.6aca7c2b.chunk.js.LICENSE.txt",
+    "static/media/bg-image.svg": "/reactjs-clock/static/media/bg-image.d94aee2b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e57ccec0.js",
+    "static/js/runtime-main.954c4f0d.js",
     "static/js/2.6aca7c2b.chunk.js",
     "static/css/main.8d1b994c.chunk.css",
-    "static/js/main.faec1a35.chunk.js"
+    "static/js/main.c0c7cc9d.chunk.js"
   ]
 }
