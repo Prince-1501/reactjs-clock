@@ -1,0 +1,49 @@
+.App {
+  margin-top: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+}
+
+.h1{
+  text-align: center;
+  color: #fff;
+  width: 100vw;
+  padding: 20px;
+  background-color: #ED677B;
+  margin: 0 auto;
+  font-size: 55px;
+  text-transform: uppercase;
+}
+
+.time{
+  float: right;
+  display: block;
+  text-align: center;
+  border: 22px solid #ED677B;
+  height: 170px;
+  width: 250px;
+  border-radius: 50%;
+  padding-top: 70px;
+  margin: 50px 85px 0 15px;
+  background-color: #DDE1EC;
+  box-shadow: 5px 10px #888888;
+}
+
+.btn{
+  display: block;
+  float: right;
+  padding: 8px 28px;
+  border: 2px solid black;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 22px;
+  background-color: black;
+  margin : 20px 60px 20px 10px;
+}
+
+.showTime{
+  font-size: 30px;
+  color: darkblue;
+  font-weight: bold;
+}
