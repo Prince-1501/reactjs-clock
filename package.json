@@ -1,7 +1,7 @@
 {
   "name": "react-new-version",
   "version": "0.1.0",
-  "homepage": "https://github.com/Prince-1501/reactjs-clock",
+  "homepage": "https://Prince-1501.github.io/reactjs-clock",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
